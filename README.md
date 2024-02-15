@@ -1,6 +1,6 @@
 M.Sc. Data Science Application Project
 Description
-This repository contains the analysis and report for the application to the M.Sc. Data Science program at TU Dortmund. The analysis focuses on examining the relationship between passing rates in German 1st Bundesliga soccer games and the likelihood of winning.
+This repository contains the analysis and report for the application to the M.Sc. Data Science program at TU Dortmund. The analysis focuses on examining the relationship between passing rates in German 1st Division Bundesliga soccer games and the likelihood of winning.
 
 Data
 The data used for this analysis is sourced from TU Dortmund's statistics department and can be found in the passes.csv file. This dataset includes passing rates for teams in the 1st Bundesliga, identified by a unique game ID, and indicates whether the team won the game or not.
